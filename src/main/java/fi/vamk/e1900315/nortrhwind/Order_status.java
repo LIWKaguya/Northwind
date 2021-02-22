@@ -1,4 +1,4 @@
-package fi.vamk.e1900315.northwind;
+package fi.vamk.e1900315.nortrhwind;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

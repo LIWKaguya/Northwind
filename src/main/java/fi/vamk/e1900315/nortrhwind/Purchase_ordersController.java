@@ -1,4 +1,4 @@
-package fi.vamk.e1900315.northwind;
+package fi.vamk.e1900315.nortrhwind;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
